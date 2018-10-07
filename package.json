@@ -1,0 +1,11 @@
+{
+  "name": "accordedit",
+  "version": "1.0.0",
+  "description": "A web based chat application with different rooms where people can join and chat.\r Heroku link - https://whispering-beach-20627.herokuapp.com/\r Open this link on two different tabs and implement chat app :-)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
